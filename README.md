@@ -2,6 +2,8 @@
 
 Here are some ideas you can make a 10-30 minute talk around. You can talk about anything in the realm of these topics. Remember, you are not limited to the below, these are just inspirations.
 
+Feel free to do a pull request and add any topics you want to learn about.
+
 # Concurrency
 
 - Implement a rate limiter
